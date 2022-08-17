@@ -1,5 +1,5 @@
 # MAST30034 Project 1 README.md
-- Name: Test Student
+- Name: Ziyi Li
 - Student ID: 0000000
 
 ## Student Instructions
